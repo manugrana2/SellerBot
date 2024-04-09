@@ -11,7 +11,7 @@ import json
 class filterProducts(BaseModel):
     """
     Call this to get a list of products that match the given product properties.
-    You can provide one or several product proterties. 
+    You can provide one or several product properties. 
     returns:
     [{
         product: string,
