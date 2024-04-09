@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+# Include the virtual environment activation script if your virtual environment is activated using a script
+# activate, activate.bat, .env, etc.
+
+# Other
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*~
+.env
